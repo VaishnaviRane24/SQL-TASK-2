@@ -9,10 +9,10 @@
 **Objective:**       Practice inserting, updating, and deleting data.
 
 
-**Tools Used:**      MySQL Workbench / DB Fiddle / SQLiteStudio
+**Tools Used:**      MySQL Workbench 
 
 
-**Deliverables:** S  QL file with `INSERT`, `UPDATE`, and `DELETE` statements
+**Deliverables:**  SQL file with `INSERT`, `UPDATE`, and `DELETE` statements
 
 ---
 
@@ -32,14 +32,15 @@
 
 **`SQL-TASK-2.sql`** → contains all `INSERT`, `UPDATE`, `DELETE` queries
 
+**`README.md`** → Documentation of the task
 
 ---
 
 **Key Concepts Covered**
 
-* Difference between 'NULL' and `0`
+* Difference between `NULL` and `0`
 
-* Using 'DEFAULT constraints' for missing data
+* Using `DEFAULT constraints` for missing data
 
 * Handling `IS NULL` in conditions
 
@@ -47,8 +48,8 @@
 
 * Inserting values into specific columns only
 
-* Effect of leaving a 'NOT NULL' field empty
+* Effect of leaving a `NOT NULL` field empty
 
-* Understanding 'ON DELETE CASCADE'
+* Understanding `ON DELETE CASCADE`
 
 ---
